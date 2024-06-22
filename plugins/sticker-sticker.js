@@ -48,7 +48,7 @@ const handler = async (m, {conn, args, usedPrefix, command}) => {
 };
 handler.help = ['sfull'];
 handler.tags = ['sticker'];
-handler.command = /^с|стикер?$/i;
+handler.command = /^с(ти?кер)?(gif)?(wm)?$/i
 
 export default handler;
 
