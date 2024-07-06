@@ -11,12 +11,12 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['+79186853241', '👑 Mystic - Creador 👑', true],
-  ['+79186853241', '💫 Mystic - Collaborator 2 💫', true],
+  ['+79282517294', '👑 Mystic - Creador 👑', true],
+  ['+79282517294', '💫 Mystic - Collaborator 2 💫', true],
 ];
 
-global.suittag = ['+79186853241'];
-global.prems = ['+79186853241.'];
+global.suittag = ['+79282517294'];
+global.prems = ['+79282517294.'];
 
 global.packname = 'Sticker';
 global.author = 'The Mystic - Bot';
@@ -56,7 +56,7 @@ global.mysticbot = 'https://github.com/Whatsapp1231234/1s1';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '+79186853241';
+global.nomorown = '+79282517294';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
