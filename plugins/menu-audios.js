@@ -55,7 +55,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┣ ඬ⃟снятьадмина
 ┣ ඬ⃟молчуны
 ┣ ඬ⃟вызов
-┣ ඬ⃟инфогруппы
 ┣ ඬ⃟ссылка
 ┣ ඬ⃟датьадмина
 ┣ ඬ⃟создатель
